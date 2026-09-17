@@ -198,4 +198,6 @@ Shield.prototype.types = {
 	"WI" : "WI",
 	"WY" : "WY",
 	"C-" : "C"
+"County" : "County"
 };
+
