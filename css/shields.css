@@ -683,3 +683,17 @@
 .bannerShieldContainer.WY.three .routeNumber {
 	font-family: "Series C";
 }
+.bannerShieldContainer.County {
+	width: 2.5rem;
+	height: 2.5rem;
+	border: 0.15rem solid var(--black);
+	background: var(--white);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.bannerShieldContainer.County .routeNumber {
+	display: none;
+	}
